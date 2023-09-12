@@ -40,11 +40,11 @@
 
   For this specific API, all you need to do is:
   ### 1. Clone the repository
-  > git clone https://github.com/CGenius-FIAP/EnterpriseAppDev.git
+  > git clone https://github.com/CGenius-FIAP/DBE.git
 <br>
 
   ### 2. Navigate to the Directory
-  > cd api-spring
+  > cd DBE-API
 <br>
 
   ### 3. [OPTIONAL] Due to size limitations, the repository does not contain a target folder or an executable JAR file. To generate these, you can run:
